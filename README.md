@@ -9,6 +9,6 @@
  6) executors, future
  7) semaphore + lock + latch
  8) custom realization of semaphore + lock + latch
- 9) queuing system with high-level synchronization mechanism
- 10) queuing system with queues
- 11) queuing system with LMAX Disruptor (ring buffer)
+ 9) queuing system with high-level synchronization mechanism (part of lab9)
+ 10) queuing system with queues (part of lab9)
+ 11) queuing system with LMAX Disruptor - ring buffer (part of lab9)
